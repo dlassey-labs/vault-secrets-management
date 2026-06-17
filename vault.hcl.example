@@ -1,0 +1,21 @@
+# HashiCorp Vault — Configuration Template
+# DL Labs | SEC-001
+# Replace <internal-domain> with your internal DNS domain (e.g. dl.lab)
+# Replace certificate paths with your actual Vault PKI cert paths
+
+ui = true
+
+storage "file" {
+  path = "/opt/vault/data"
+}
+
+listener "tcp" {
+  address     = "0.0.0.0:8200"
+  tls_disable = 0
+
+  tls_cert_file = "/opt/vault/tls/vault.crt"
+  tls_key_file  = "/opt/vault/tls/vault.key"
+}
+
+api_addr     = "https://vault.<internal-domain>:8200"
+cluster_addr = "https://vault.<internal-domain>:8201"
