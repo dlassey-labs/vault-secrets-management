@@ -313,8 +313,16 @@ DL-LABS / SECURITY / VAULT /
 │   │   └── vault-cli-overview.png         # CLI — status, secrets list, kv list
 
 
+```
+
 ---
 
-*DL Labs — Where Infrastructure Meets Intelligence*
 
+## 👤 Author
+
+**Dosseh Lassey**
+Founder, DL-LABS - Where Infrastructure Meets Intelligence ·
+Infrastructure · Engineering · Automation · AI
+
+---
 
