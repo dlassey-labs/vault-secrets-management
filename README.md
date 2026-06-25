@@ -1,3 +1,5 @@
+<div align="center">
+
 #  HashiCorp Vault — Secrets Management (KV v2)
 
 ![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-v1.21.4-black?style=flat-square&logo=vault&logoColor=white)
@@ -7,6 +9,8 @@
 
 > **DL Labs |  SEC-001**
 > Part of the [DL Labs](https://github.com/dlassey-labs) self-hosted infrastructure programme.
+
+</div>
 
 ---
 
