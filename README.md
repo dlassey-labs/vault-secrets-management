@@ -7,11 +7,11 @@
 ![Storage](https://img.shields.io/badge/Storage-File_Backend-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Operational-success?style=flat-square)
 
+---
 > **DL Labs |  SEC-001**
 > Part of the [DL Labs](https://github.com/dlassey-labs) self-hosted infrastructure programme.
 
 </div>
-
 ---
 
 ## Overview
